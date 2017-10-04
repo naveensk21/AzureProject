@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'tcp:ukrainea.database.windows.net,1433',
+	'hostname' => 'tcp:uairline.database.windows.net,1433',
 	'username' => 'naveen',
 	'password' => 'Password!1',
 	'database' => 'UkraineA',
