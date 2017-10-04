@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'JAGATH',
-	'username' => '',
-	'password' => '',
+	'hostname' => 'tcp:ukrainea.database.windows.net,1433',
+	'username' => 'naveen',
+	'password' => 'Password24',
 	'database' => 'UkraineA',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
