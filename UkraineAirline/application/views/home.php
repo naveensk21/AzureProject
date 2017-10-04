@@ -18,7 +18,7 @@
 								<option value="Dubai">Dubai</option>
 								<option value="Dublin">Dublin</option>
 								<option value="Kuala Lumpur">Kuala Lumpur</option>
-								<option value="Colombo">Colombo</option>
+								<option value="Colomboo">Colomboo</option>
 								<option value="Paris">Paris</option>
 								<option value="Delhi">Delhi</option>
 								<option value="Moscow">Moscow</option>
